@@ -1,3 +1,6 @@
+#Algoritmo para definir se uma string pertence ou não a um DFA
+
+
 def convertDelta(string):
     return string.split(' ')
 
